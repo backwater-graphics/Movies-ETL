@@ -26,8 +26,8 @@ Deliverable 3 had us consolidated the redundant data, removed the duplicates, fo
 ### Load the data to a PostgreSQL Movie Database
 
 Deliverable 4 had us load the data to PostgresSQL database and to check to make sure both the movie_data  and the ratings data loaded the information into the databases
+
 ![movie_data](https://github.com/backwater-graphics/Movies-ETL/blob/main/Resources/movies_query.png)
----
 ![ratings](https://github.com/backwater-graphics/Movies-ETL/blob/main/Resources/ratings_query.png)
 ---
 ## Summary:
